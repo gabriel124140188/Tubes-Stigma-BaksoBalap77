@@ -1,0 +1,10 @@
+{
+  "name": "AlternatifBot",
+  "version": "1.0",
+  "authors": ["hanif"],
+  "description": "Alternative greedy utility bot with controlled firing",
+  "gameTypes": ["classic"],
+  "platform": ".Net 6",
+  "programmingLang": "C#",
+  "command": "AlternatifBot.cmd"
+}
