@@ -1,0 +1,10 @@
+{
+  "name": "Kusar",
+  "version": "1.0",
+  "authors": ["hanif"],
+  "description": "Greedy adaptive bot with evasive orbit strategy",
+  "gameTypes": ["classic"],
+  "platform": ".Net 6",
+  "programmingLang": "C#",
+  "command": "Kusar.cmd"
+}
