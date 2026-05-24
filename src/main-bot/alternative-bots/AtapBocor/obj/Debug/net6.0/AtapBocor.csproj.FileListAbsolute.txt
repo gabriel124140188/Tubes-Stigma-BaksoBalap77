@@ -1,0 +1,72 @@
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.json
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.exe
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.deps.json
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.runtimeconfig.json
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\AtapBocor.pdb
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\Robocode.TankRoyale.BotApi.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\SVG.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.Up2Date
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\refint\AtapBocor.dll
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.pdb
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\AtapBocor.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\AtapBocor_Gragas_vs_Alternatif\AtapBocor\obj\Debug\net6.0\ref\AtapBocor.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.json
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.exe
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.deps.json
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.runtimeconfig.json
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\AtapBocor.pdb
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\Robocode.TankRoyale.BotApi.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\SVG.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.csproj.Up2Date
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\refint\AtapBocor.dll
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.pdb
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\AtapBocor.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\FINALLLLY BOT\AtapBocor\obj\Debug\net6.0\ref\AtapBocor.dll

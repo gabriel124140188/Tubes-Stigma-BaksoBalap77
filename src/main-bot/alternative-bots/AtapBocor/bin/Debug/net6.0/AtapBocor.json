@@ -1,0 +1,10 @@
+{
+  "name": "AtapBocor",
+  "version": "1.0",
+  "authors": ["hanif"],
+  "description": "Bot greedy agresif: target prioritas, rush orbit, dan fire pressure",
+  "gameTypes": ["classic"],
+  "platform": ".Net 6",
+  "programmingLang": "C#",
+  "command": "AtapBocor.cmd"
+}
